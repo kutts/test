@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @file
+ * @file test test
  * Administrative script for running authorized file operations.
  *
  * Using this script, the site owner (the user actually owning the files on
